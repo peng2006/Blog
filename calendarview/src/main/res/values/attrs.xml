@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Calendar">
+        <attr name="hpadding" format="float"></attr>
+        <attr name="wpadding" format="float"></attr>
+        <attr name="downcolor" format="color"></attr>
+        <attr name="bordercolor" format="color"></attr>
+        <attr name="weekcolor" format="color"></attr>
+
+        <attr name="monthbg1color" format="color"></attr>
+        <attr name="monthbg1fill" format="boolean"></attr>
+
+        <attr name="monthbg2color" format="color"></attr>
+        <attr name="monthbg2fill" format="boolean"></attr>
+
+
+
+        <attr name="todaycolor" format="color"></attr>
+        <attr name="normalcolor" format="color"></attr>
+        <attr name="othermonthcolor" format="color"></attr>
+        <attr name="weekscale" format="float"></attr>
+        <attr name="datescale" format="float"></attr>
+        <attr name="ischinese" format="boolean"></attr>
+        <attr name="isbold" format="boolean"></attr>
+        <attr name="buttondistance" format="float"></attr>
+
+
+    </declare-styleable>
+</resources>
